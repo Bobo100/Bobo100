@@ -1,18 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-# Hi and Hi
+## 個人資料
 
-<!--
-**Bobo100/Bobo100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 姓名：徐晟紘
+- Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
+- Blog: <a href="https://bobo100.github.io/BoboWebsite">https://bobo100.github.io/BoboWebsite</a>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 簡介
+
+正在台科大就讀中，凡人正在努力中
+
+<hr>
+
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/lione1234) -->
+
+<div align=center><img width="500" src ="https://leetcard.jacoblin.cool/lione1234"/></div>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical) -->
+
+<div align=center><img width="500" src ="https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical"/></div>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact) -->
+
+<div align=center><img width="500" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact"/></div>
