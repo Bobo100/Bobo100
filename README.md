@@ -2,18 +2,26 @@
 
 ## 個人資料
 
-- 姓名：徐晟紘
-- Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
-- Blog: <a href="https://bobo100.github.io/BoboWebsite">https://bobo100.github.io/BoboWebsite</a>
+- 🤖姓名：徐晟紘 (Bobo)
+- 📧Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
+- 🌐Blog: <a href="https://bobo100.github.io/BoboWebsite">https://bobo100.github.io/BoboWebsite</a>
 
-<hr>
+***
 
 ## 簡介
 
 正在台科大就讀中，凡人正在努力中
 
-<hr>
+***
 
+## 準備進行的個人練習
+
+- [ ] TypeScript-Tree Visualization
+- [ ] Scroll Animation Simple 01
+- [ ] Simple UI Components (button)
+- [ ] Webpage Thumbnail Maker(Bookmark)
+
+***
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/lione1234) -->
 
