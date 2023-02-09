@@ -19,7 +19,9 @@
 - [ ] TypeScript-Tree Visualization
 - [ ] Scroll Animation Simple 01
 - [ ] Simple UI Components (button)
-- [ ] Webpage Thumbnail Maker(Bookmark)
+- [ ] Tarot Prediction
+- [ ] Card Draw Probability Simulation
+- [X] Webpage Thumbnail Maker(Bookmark)
 
 ***
 
