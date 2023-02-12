@@ -17,11 +17,50 @@
 ## 準備進行的個人練習
 
 - [ ] TypeScript-Tree Visualization
+    <div class="container">
+    <div class="skills not_start">0%</div>
+    </div>
 - [ ] Scroll Animation Simple 01
+    <div class="container">
+    <div class="skills twity">10%</div>
+    </div>
 - [ ] Simple UI Components (button)
+    <div class="container">
+    <div class="skills not_start">0%</div>
+    </div>
 - [ ] Tarot Prediction
+    <div class="container">
+    <div class="skills not_start">0%</div>
+    </div>
 - [X] Card Draw Probability Simulation
+    <div class="container">
+    <div class="skills ninty">90%</div>
+    </div>
 - [X] Webpage Thumbnail Maker(Bookmark)
+    <div class="container">
+    <div class="skills ninty">90%</div>
+    </div>
+
+<style>
+.container {
+    width: 18%;
+    background-color: dimgray;
+    border-radius: 15px;
+
+}
+.skills {
+    text-align: right;
+    line-height: 20px;
+    color: white;
+    border-radius: 15px;
+    padding-right: 3px;
+}
+.not_start {
+
+}
+.twity {width: 20%; background-color: #a2cffe;}
+.ninty {width: 90%; background-color: #a2cffe;}
+</style>
 
 ***
 
