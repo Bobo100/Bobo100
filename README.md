@@ -21,6 +21,8 @@
 - [ ] Simple UI Components (button)
 - [ ] Dice
 - [ ] Black Desert Statistics
+- [ ] Stock UI
+- [ ] Update Profile
 - [ ] ~~Tarot Prediction (無法完成 卡片難蒐集)~~
 - [X] Card Draw Probability Simulation
 - [X] Webpage Thumbnail Maker(Bookmark)
