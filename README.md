@@ -29,6 +29,8 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [ARK MOD 第二集 實用MOD系列 顯示一切的無敵望遠鏡 與 恐龍血量顯示MOD](https://www.youtube.com/watch?v=vpReCWFK_8w)
+- [ARK MOD 第一集 最實用的管理MOD 內建指令Ark Nucleus](https://www.youtube.com/watch?v=rIHeQ2b-90M)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
