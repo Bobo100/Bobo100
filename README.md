@@ -17,12 +17,12 @@
 ## 準備進行的個人練習
 
 - [ ] TypeScript-Tree Visualization
-- [ ] Scroll Animation Simple 01
+- [X] Scroll Animation Simple 01
 - [ ] Simple UI Components (button)
 - [ ] Dice
 - [ ] Black Desert Statistics
 - [ ] Stock UI
-- [ ] Update Profile
+- [X] Update Profile
 - [ ] ~~Tarot Prediction (無法完成 卡片難蒐集)~~
 - [X] Card Draw Probability Simulation
 - [X] Webpage Thumbnail Maker(Bookmark)
