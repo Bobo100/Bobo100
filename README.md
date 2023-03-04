@@ -20,7 +20,7 @@
 - [X] Scroll Animation Simple 01
 - [ ] Simple UI Components (button)
 - [ ] Dice
-- [ ] Black Desert Statistics
+- [X] Black Desert Statistics
 - [ ] Stock UI
 - [X] Update Profile
 - [ ] ~~Tarot Prediction (無法完成 卡片難蒐集)~~
