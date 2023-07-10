@@ -4,7 +4,7 @@
 
 - 🤖姓名：徐晟紘 (Bobo)
 - 📧Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
-- 🌐Blog: <a href="https://bobo100.github.io/BoboWebsite">https://bobo100.github.io/BoboWebsite</a>
+- 🌐Blog: <a href="https://bobo100.github.io/BoboWebsite">https://bobo100.github.io/BoboWebsite</a> (In maintenance)
 
 ***
 
@@ -12,21 +12,17 @@
 
 剛從台科大畢業，目前於玩美移動服務，凡人持續努力。
 
+最近學到的經驗：確診真的非常非常痛苦！！！
+
 ***
 
 ## 準備進行的個人練習
 
 - [ ] TypeScript-Tree Visualization
-- [X] Scroll Animation Simple 01
-- [ ] Simple UI Components (button)
 - [ ] Dice
-- [X] Black Desert Statistics
+- [ ] Black Desert Statistics (More Detail and Useful tool)
 - [ ] Stock UI
-- [X] Update Profile
 - [ ] ~~Tarot Prediction (無法完成 卡片難蒐集)~~
-- [X] Card Draw Probability Simulation
-- [X] Webpage Thumbnail Maker(Bookmark)
-- [X] Login System
 
 ## Youtube
 <!-- YOUTUBE:START -->
