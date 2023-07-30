@@ -26,6 +26,7 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [好遊戲推薦系列 03【怪物聖所】像素風格的寶可夢冒險](https://www.youtube.com/watch?v=WVWYz6jR6SI)
 - [好遊戲推薦系列 02 【破曉傳奇】日式王道RPG，統治壓迫中追尋自由新生](https://www.youtube.com/watch?v=44CBu0pjzWA)
 - [好遊戲推薦系列 01【OPUS：龍脈常歌】 不完美的完美](https://www.youtube.com/watch?v=vLZlZCxc2HI)
 - [ARK MOD 第二集 實用MOD系列 顯示一切的無敵望遠鏡 與 恐龍血量顯示MOD](https://www.youtube.com/watch?v=vpReCWFK_8w)
