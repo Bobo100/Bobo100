@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》 終於有時間玩啦](https://www.youtube.com/watch?v=9LXvd-f13m8)
 - [好遊戲推薦系列 03【怪物聖所】像素風格的寶可夢冒險](https://www.youtube.com/watch?v=WVWYz6jR6SI)
 - [好遊戲推薦系列 02 【破曉傳奇】日式王道RPG，統治壓迫中追尋自由新生](https://www.youtube.com/watch?v=44CBu0pjzWA)
 - [好遊戲推薦系列 01【OPUS：龍脈常歌】 不完美的完美](https://www.youtube.com/watch?v=vLZlZCxc2HI)
 - [ARK MOD 第二集 實用MOD系列 顯示一切的無敵望遠鏡 與 恐龍血量顯示MOD](https://www.youtube.com/watch?v=vpReCWFK_8w)
-- [ARK MOD 第一集 最實用的管理MOD 內建指令Ark Nucleus](https://www.youtube.com/watch?v=rIHeQ2b-90M)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
