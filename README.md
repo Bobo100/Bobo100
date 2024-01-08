@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》06](https://www.youtube.com/watch?v=fCOKJWvNjyY)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》05](https://www.youtube.com/watch?v=y4hDpuda1Us)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》02](https://www.youtube.com/watch?v=Vbd_27Rj3Y4)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》01](https://www.youtube.com/watch?v=9LXvd-f13m8)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》04](https://www.youtube.com/watch?v=iABnpPJp0Dc)
-- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》03](https://www.youtube.com/watch?v=gmq9hGCD6Js)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
