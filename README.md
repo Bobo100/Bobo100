@@ -26,10 +26,10 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》09](https://www.youtube.com/watch?v=x9hT-tgyyfg)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》09](https://www.youtube.com/watch?v=_EWR9ZkULpA)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》06](https://www.youtube.com/watch?v=fCOKJWvNjyY)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》07](https://www.youtube.com/watch?v=SP0GA1ju6mY)
-- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》09](https://www.youtube.com/watch?v=x9hT-tgyyfg)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》05](https://www.youtube.com/watch?v=y4hDpuda1Us)
 <!-- YOUTUBE:END -->
 
