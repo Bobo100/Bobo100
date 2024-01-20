@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
-- [【百百】《幻獸帕魯 | Palworld》02 攻略第一座高塔!?](https://www.youtube.com/watch?v=AjgOIIGwSts)
 - [【百百】《幻獸帕魯 | Palworld》03 歐買尬 打不贏稀有帕魯](https://www.youtube.com/watch?v=IbhGFQuCuzM)
+- [【百百】《幻獸帕魯 | Palworld》04](https://www.youtube.com/watch?v=05OwFmWiwH4)
+- [【百百】《幻獸帕魯 | Palworld》02 攻略第一座高塔!?](https://www.youtube.com/watch?v=AjgOIIGwSts)
 - [【百百】《幻獸帕魯 | Palworld》01 成為幻獸帕魯大師之路](https://www.youtube.com/watch?v=LlLNDJSm4vg)
 - [【百百】《潛水員戴夫 | DAVE THE DIVER》21](https://www.youtube.com/watch?v=0etQEQX3MGQ)
-- [【百百】《潛水員戴夫 | DAVE THE DIVER》20](https://www.youtube.com/watch?v=N5fCugp0w-k)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
