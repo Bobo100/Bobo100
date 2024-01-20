@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】《幻獸帕魯 | Palworld》02 打高塔?](https://www.youtube.com/watch?v=AjgOIIGwSts)
 - [【百百】《幻獸帕魯 | Palworld》01](https://www.youtube.com/watch?v=LlLNDJSm4vg)
 - [【百百】《潛水員戴夫 | DAVE THE DIVER》21](https://www.youtube.com/watch?v=0etQEQX3MGQ)
 - [【百百】《潛水員戴夫 | DAVE THE DIVER》20](https://www.youtube.com/watch?v=N5fCugp0w-k)
 - [【百百】《潛水員戴夫 | DAVE THE DIVER》20](https://www.youtube.com/watch?v=IC069yZdaWo)
-- [【百百】《潛水員戴夫 | DAVE THE DIVER》19](https://www.youtube.com/watch?v=0S3qinN2NlI)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
