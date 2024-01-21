@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】《幻獸帕魯 | Palworld》09 能撿到蛋嗎](https://www.youtube.com/watch?v=L_cDO0GeplA)
 - [【百百】《幻獸帕魯 | Palworld》08 丟掉XGP版本 重新再出發](https://www.youtube.com/watch?v=D4tdgAgYPdg)
 - [【百百】《幻獸帕魯 | Palworld》08 丟掉XGP版本 重新再出發](https://www.youtube.com/watch?v=OUI2yiqKwEI)
 - [【百百】《幻獸帕魯 | Palworld》05 早起的人吃帕魯](https://www.youtube.com/watch?v=xqpejMnN3vU)
 - [【百百】《幻獸帕魯 | Palworld》06 等中餐](https://www.youtube.com/watch?v=OJ7s4BZxsUw)
-- [【百百】《幻獸帕魯 | Palworld》04](https://www.youtube.com/watch?v=05OwFmWiwH4)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
