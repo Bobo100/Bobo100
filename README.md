@@ -27,10 +27,10 @@
 ## Youtube
 <!-- YOUTUBE:START -->
 - [【百百】《幻獸帕魯 | Palworld》12 下班後帕魯當社畜](https://www.youtube.com/watch?v=Oct-KnFSJsk)
+- [【百百】《幻獸帕魯 | Palworld》12 下班後帕魯當社畜](https://www.youtube.com/watch?v=roAx3qkSn7Q)
 - [【百百】《幻獸帕魯 | Palworld》11 下班繼續帕帕帕](https://www.youtube.com/watch?v=IZo-8W6RWcc)
 - [【百百】《幻獸帕魯 | Palworld》10 再開一下圖](https://www.youtube.com/watch?v=J3L5qYPpL64)
 - [【百百】《幻獸帕魯 | Palworld》09 今天來測試網路絕技 抓高塔BOSS](https://www.youtube.com/watch?v=HEvsFVV9TBE)
-- [【百百】《幻獸帕魯 | Palworld》09 撿蛋大師 一直簡一直爽](https://www.youtube.com/watch?v=L_cDO0GeplA)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
