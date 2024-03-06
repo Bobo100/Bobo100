@@ -4,7 +4,7 @@
 
 - 🤖姓名：徐晟紘 (Bobo)
 - 📧Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
-- 🌐Blog: <a href="https://bobo100.github.io/BoboWebsite">https://bobo100.github.io/BoboWebsite</a> (In maintenance)
+- 🌐Blog: <a href="https://bobo-blog.vercel.app/">https://bobo-blog.vercel.app/</a> (In maintenance)
 
 ***
 
