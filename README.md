@@ -28,9 +28,9 @@
 <!-- YOUTUBE:START -->
 - [純遊戲介紹系列 01【女神異聞錄五 戰略版 / Persona 5 Tactica】心之怪盜團再次行動](https://www.youtube.com/watch?v=IfiFLOvGIeo)
 - [好遊戲推薦系列 04 【宿命殘響 / 鎖鏈回聲 / Chained Echoes】打破枷鎖的贖罪之旅](https://www.youtube.com/watch?v=smUAXJBe31I)
-- [【百百】《幻獸帕魯 | Palworld》13 下班後帕魯當社畜](https://www.youtube.com/watch?v=roAx3qkSn7Q)
-- [【百百】《幻獸帕魯 | Palworld》12 下班後帕魯當社畜](https://www.youtube.com/watch?v=Oct-KnFSJsk)
-- [【百百】《幻獸帕魯 | Palworld》11 下班繼續帕帕帕](https://www.youtube.com/watch?v=IZo-8W6RWcc)
+- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》06](https://www.youtube.com/watch?v=fCOKJWvNjyY)
+- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》05](https://www.youtube.com/watch?v=y4hDpuda1Us)
+- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》02](https://www.youtube.com/watch?v=Vbd_27Rj3Y4)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
