@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
-- [純遊戲介紹系列 01【女神異聞錄五 戰略版 / Persona 5 Tactica】心之怪盜團再次行動](https://www.youtube.com/watch?v=IfiFLOvGIeo)
-- [好遊戲推薦系列 04 【宿命殘響 / 鎖鏈回聲 / Chained Echoes】打破枷鎖的贖罪之旅](https://www.youtube.com/watch?v=smUAXJBe31I)
+- [我扛我扛，還想騙啊 #百百 #英雄聯盟](https://www.youtube.com/watch?v=ob-AYkd4jE0)
+- [【百百】到底誰在搞!! 冰冰:「我扛我扛&lpar;`・ω・´&rpar;」百百:「你扛? &lpar;#`皿´&rpar;」](https://www.youtube.com/watch?v=lr1Qd-6ay1M)
+- [【百百】純遊戲介紹系列 01【女神異聞錄五 戰略版 / Persona 5 Tactica】心之怪盜團再次行動](https://www.youtube.com/watch?v=IfiFLOvGIeo)
+- [【百百】好遊戲推薦系列 04 【宿命殘響 / 鎖鏈回聲 / Chained Echoes】打破枷鎖的贖罪之旅](https://www.youtube.com/watch?v=smUAXJBe31I)
 - [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》06](https://www.youtube.com/watch?v=fCOKJWvNjyY)
-- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》05](https://www.youtube.com/watch?v=y4hDpuda1Us)
-- [【百百 Bobo】《潛水員戴夫 | DAVE THE DIVER》02](https://www.youtube.com/watch?v=Vbd_27Rj3Y4)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
