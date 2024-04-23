@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】周杰倫不排除提告 #英雄聯盟 #百百](https://www.youtube.com/watch?v=Z83CPdTJqKc)
+- [【百百】誰說我們不會唱歌！最強周杰倫模仿，嘉義克麗絲叮？](https://www.youtube.com/watch?v=AxYBN8NDfM0)
 - [【百百】別挨餓 Don&#39;t Starve Together &lpar;DST&rpar; 伺服器架設相關教學 第一集 建立獨立伺服器教學](https://www.youtube.com/watch?v=87az8KCmU04)
 - [我扛我扛，還想騙啊 #百百 #英雄聯盟](https://www.youtube.com/watch?v=ob-AYkd4jE0)
 - [【百百】到底誰在搞!! 冰冰:「我扛我扛&lpar;`・ω・´&rpar;」百百:「你扛? &lpar;#`皿´&rpar;」](https://www.youtube.com/watch?v=lr1Qd-6ay1M)
-- [【百百】純遊戲介紹系列 01【女神異聞錄五 戰略版 / Persona 5 Tactica】心之怪盜團再次行動](https://www.youtube.com/watch?v=IfiFLOvGIeo)
-- [【百百】好遊戲推薦系列 04 【宿命殘響 / 鎖鏈回聲 / Chained Echoes】打破枷鎖的贖罪之旅](https://www.youtube.com/watch?v=smUAXJBe31I)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
