@@ -26,7 +26,7 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
-- [【百百】英雄聯盟 盜帳號事件 X 捲捲薯條買不到 &lpar;純文字精華&rpar;](https://www.youtube.com/watch?v=30R5xMhgKmA)
+- [【百百】英雄聯盟 盜帳號事件 X 捲捲薯條買不到 &lpar;純文字精華&rpar; 後續請看置頂留言](https://www.youtube.com/watch?v=30R5xMhgKmA)
 - [英雄聯盟帳號被盜啦！#百百 #leagueoflegends #英雄聯盟](https://www.youtube.com/watch?v=t8YoexXXw8E)
 - [RRRR 鬼吼鬼叫 #百百 #英雄聯盟 #leagueoflegends](https://www.youtube.com/watch?v=K1F8IWZt1Gc)
 - [【百百】英雄總是最後登場，指尖陀螺太強啦，拿Penta超開心](https://www.youtube.com/watch?v=-_OAHQlL_QM)
