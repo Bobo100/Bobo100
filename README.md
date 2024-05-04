@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [發動陷阱卡 勾引！要開戰就讓我ADC來 #leagueoflegends #百百 #英雄聯盟](https://www.youtube.com/watch?v=16cte3BXMuQ)
 - [【百百】肥克阿卡利華麗登場 尾刀撿頭傷害爆炸高 玩汎場場被針對? 汎桶教你如何開戰](https://www.youtube.com/watch?v=K_s_5e_RbbE)
 - [【百百】英雄聯盟 盜帳號事件 X 捲捲薯條買不到 &lpar;純文字精華&rpar; 後續請看置頂留言](https://www.youtube.com/watch?v=30R5xMhgKmA)
 - [英雄聯盟帳號被盜啦！#百百 #leagueoflegends #英雄聯盟](https://www.youtube.com/watch?v=t8YoexXXw8E)
 - [RRRR 鬼吼鬼叫 #百百 #英雄聯盟 #leagueoflegends](https://www.youtube.com/watch?v=K1F8IWZt1Gc)
-- [【百百】英雄總是最後登場，指尖陀螺太強啦，拿Penta超開心](https://www.youtube.com/watch?v=-_OAHQlL_QM)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
