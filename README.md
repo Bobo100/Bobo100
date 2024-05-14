@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [靠夭啊，巨人鬼 &lpar;進擊的巨人&rpar;！不准在偷咪眼睛了 #wewentback](https://www.youtube.com/watch?v=l4tNFNunjJI)
+- [【百百】大家都說不恐怖但我還是覺得很恐怖的免費恐怖遊戲【We went back】](https://www.youtube.com/watch?v=ZbXc4NQMP7w)
 - [60秒介紹遊戲 - 【Hi-Fi Rush | 完美音浪】 #hifirush #games #百百](https://www.youtube.com/watch?v=ctTsUuHNlvY)
 - [【百百】別挨餓 Don&#39;t Starve Together &lpar;DST&rpar; 伺服器架設相關教學 &lpar;2024年適用&rpar;  第二集 更改世界設定](https://www.youtube.com/watch?v=1iuBHppu1zg)
 - [被盜事件結尾 #leagueoflegends #百百 #英雄聯盟](https://www.youtube.com/watch?v=L_aCKQAKs78)
-- [【百百】被盜事件結尾【英雄聯盟】](https://www.youtube.com/watch?v=N7V8mh_1Hzg)
-- [發動陷阱卡 勾引！要開戰就讓我ADC來 #leagueoflegends #百百 #英雄聯盟](https://www.youtube.com/watch?v=16cte3BXMuQ)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
