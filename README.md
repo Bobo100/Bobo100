@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [60秒介紹遊戲 - 【仙劍奇俠傳七 | Sword and Fairy 7】 #games #百百 #swordandfairy  #仙劍奇俠傳 #仙劍奇俠傳七 #遊戲](https://www.youtube.com/watch?v=kcxxd-xWSnE)
 - [60秒介紹遊戲 - 【巴別塔聖歌 | Chants of sennaar】 #games #百百 #chantsofsennaar](https://www.youtube.com/watch?v=plu4zaFYf44)
 - [60秒介紹遊戲 - 【碧藍幻想Relink | Granblue Fantasy: Relink】 #games #百百 #granbluefantasyrelink](https://www.youtube.com/watch?v=1JAG6RTz5yA)
 - [60秒介紹遊戲 - 【Dave the Diver | 潛水員戴夫】 #davethediver #games #百百](https://www.youtube.com/watch?v=n0Uvgl_EHR4)
 - [【百百】冰鳥你的冰牆怎麼放的啊！！！玩英雄聯盟還可以摸兩粒！？【英雄聯盟】](https://www.youtube.com/watch?v=R5kVzxjMk4A)
-- [靠夭啊，巨人鬼 &lpar;進擊的巨人&rpar;！不准在偷咪眼睛了 #wewentback](https://www.youtube.com/watch?v=l4tNFNunjJI)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
