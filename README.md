@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】阿伯出事啦 冰冰車禍!! 遊戲被盜又車禍 大衰神上身](https://www.youtube.com/watch?v=yA5ciTwf_es)
 - [【百百】純遊戲推薦系列 02【仙劍奇俠傳七】台灣經典IP 來一場古風奇幻的冒險吧!](https://www.youtube.com/watch?v=o-kix-g8ck8)
 - [精準雪球，專業撿頭，等等看輸出 #百百 #英雄聯盟 #leagueoflegends #aram #games](https://www.youtube.com/watch?v=yFkc6BVw4-U)
 - [【百百】一生只督你一人 之 專業尾頭!? 尾頭石頭人!?【英雄聯盟】](https://www.youtube.com/watch?v=4HSARWZURrY)
 - [【百百】英雄聯盟ARAM 小片段精華](https://www.youtube.com/watch?v=R_6KEbaY-Nc)
-- [【百百】For the king II，冰冰 不要再搞事啦!!!，整個團隊都雖到爆炸](https://www.youtube.com/watch?v=O_mmS2cAEYw)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
