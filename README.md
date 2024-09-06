@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】純遊戲推薦系列 03【TOEM: A Photo Adventure】拿起相機，記錄起永恆的瞬間](https://www.youtube.com/watch?v=0tKzV6M-O7s)
 - [60秒介紹遊戲 - 【TOEM：照片冒險 | TOEM: A Photo Adventure】拍照x尋找x回憶，你找到TOEM了嗎? #games #百百 #toem  @Bobo100Stream](https://www.youtube.com/watch?v=hJRr6Y1ToZ4)
 - [阿伯出事啦 冰冰車禍!! 遊戲被盜又車禍 一定是水逆你逆 #百百 #game](https://www.youtube.com/watch?v=1U1KGGfaenA)
 - [60秒介紹遊戲 - 【荊棘：群山之王 | Bramble: The Mountain King】置身北歐黑暗童話中冒險 #games #百百 #bramblethemountainking](https://www.youtube.com/watch?v=cfVKj-Fwfq8)
 - [【百百】阿伯出事啦 冰冰車禍!! 遊戲被盜又車禍 大衰神上身 &lpar;重新上傳&rpar;](https://www.youtube.com/watch?v=vWlIJ_fn_Os)
-- [【百百】別挨餓 Don&#39;t Starve Together &lpar;DST&rpar; 伺服器架設相關教學 第三集 &lpar;2024適用&rpar; MOD安裝教學](https://www.youtube.com/watch?v=2ASNnyMmbAs)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
