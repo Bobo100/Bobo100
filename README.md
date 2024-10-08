@@ -2,7 +2,7 @@
 
 ## 個人資料
 
-- 🤖姓名：徐晟紘 (Bobo)
+- 🤖姓名：Bobo
 - 📧Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
 - 🌐Blog: <a href="https://bobo-blog.vercel.app/">https://bobo-blog.vercel.app/</a> (In maintenance)
 
