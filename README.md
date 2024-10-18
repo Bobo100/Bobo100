@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】純遊戲介紹系列 05【荊棘：群山之王 / Bramble: The Mountain King】恐怖的北歐童話故事遊戲](https://www.youtube.com/watch?v=AuuTsEaPQd0)
 - [60秒介紹遊戲 - 【亞路塔：狐狸狐途的麵包冒險 | Aeruta】成為英雄吧，麵包世界大冒險 #百百 #百百kurau #亞路塔](https://www.youtube.com/watch?v=530xNP0FI7A)
 - [【百百】好遊戲推薦系列 06【亞路塔：狐狸狐途的麵包冒險 / Aeruta】成為英雄吧，麵包世界大冒險](https://www.youtube.com/watch?v=S7VNccZ55vY)
 - [60秒介紹遊戲 - 【P的謊言 | Lies of P】木偶奇遇記真人版? 你愛說謊嗎? #百百](https://www.youtube.com/watch?v=s5NZ15pFTFM)
 - [60秒介紹遊戲 - 【Hi-Fi Rush | 完美音浪】戰鬥音遊 #hifirush #games #百百](https://www.youtube.com/watch?v=quLuhfM1Kuo)
-- [【百百】好遊戲推薦系列 05 【P的謊言 / Lies of P】踏上旅途，為了成為真正的人](https://www.youtube.com/watch?v=OC-jCJs-v6g)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
