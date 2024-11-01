@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【#百百】咒DEMO 遊戲精華 &lpar;火佛修一，心薩嘸哞&rpar; 膽小者 觀看請小心 #咒](https://www.youtube.com/watch?v=WiQSJLUQobQ)
+- [【#百百】咒DEMO 阿姨放過我!! &lpar;火佛修一，心薩嘸哞&rpar; 膽小者 觀看請小心 #咒](https://www.youtube.com/watch?v=BHFXBjIBVCA)
 - [60秒介紹遊戲 - 【OPUS：地球計畫 | Opus: The Day We Found Earth】地球成了傳說，約定的份量 #games #百百 #遊戲  #sigono](https://www.youtube.com/watch?v=qf9jpzFrGhA)
 - [【百百】純遊戲介紹系列 05【荊棘：群山之王 / Bramble: The Mountain King】恐怖的北歐童話故事遊戲](https://www.youtube.com/watch?v=AuuTsEaPQd0)
 - [60秒介紹遊戲 - 【亞路塔：狐狸狐途的麵包冒險 | Aeruta】成為英雄吧，麵包世界大冒險 #百百 #百百kurau #亞路塔](https://www.youtube.com/watch?v=530xNP0FI7A)
-- [【百百】好遊戲推薦系列 06【亞路塔：狐狸狐途的麵包冒險 / Aeruta】成為英雄吧，麵包世界大冒險](https://www.youtube.com/watch?v=S7VNccZ55vY)
-- [60秒介紹遊戲 - 【P的謊言 | Lies of P】木偶奇遇記真人版? 你愛說謊嗎? #百百](https://www.youtube.com/watch?v=s5NZ15pFTFM)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
