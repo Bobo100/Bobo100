@@ -26,7 +26,7 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
-- [【#百百】咒DEMO 遊戲精華 &lpar;火佛修一，心薩嘸哞&rpar; 觀看請小心 #咒](https://www.youtube.com/watch?v=WiQSJLUQobQ)
+- [【百百】咒DEMO 遊戲精華 &lpar;火佛修一，心薩嘸哞&rpar; 觀看請小心 #咒 #百百](https://www.youtube.com/watch?v=WiQSJLUQobQ)
 - [【百百】咒DEMO 阿姨放過我!! &lpar;火佛修一，心薩嘸哞&rpar; 觀看請小心 #咒 #百百](https://www.youtube.com/watch?v=BHFXBjIBVCA)
 - [60秒介紹遊戲 - 【OPUS：地球計畫 | Opus: The Day We Found Earth】地球成了傳說，約定的份量 #games #百百 #遊戲  #sigono](https://www.youtube.com/watch?v=qf9jpzFrGhA)
 - [【百百】純遊戲介紹系列 05【荊棘：群山之王 / Bramble: The Mountain King】恐怖的北歐童話故事遊戲](https://www.youtube.com/watch?v=AuuTsEaPQd0)
