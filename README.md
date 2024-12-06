@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】純遊戲介紹系列 06【國津神：女神之道 / Kunitsu-Gami: Path of the Goddess】塔防和百鬼夜行元素的動作策略遊戲](https://www.youtube.com/watch?v=J6IjLqgV37Q)
 - [【百百】赫赫哈ㄏ一ˋ 吃我拳法 #咒 #百百](https://www.youtube.com/watch?v=tPTtM414KC4)
 - [【百百】咒DEMO 觸發BUG 突然就不恐怖了 #咒 #百百](https://www.youtube.com/watch?v=meCchT0u3dA)
 - [【百百】不要再幫我關燈啦 &lpar;火佛修一，心薩嘸哞&rpar; #咒 #百百](https://www.youtube.com/watch?v=v3SlcG7JHZY)
 - [【百百】咒DEMO 你倒是穿個衣服啊!! &lpar;火佛修一，心薩嘸哞&rpar; #咒 #百百](https://www.youtube.com/watch?v=7c-A-0tMzOs)
-- [【百百】咒DEMO 遊戲精華 &lpar;火佛修一，心薩嘸哞&rpar; 觀看請小心 #咒 #百百](https://www.youtube.com/watch?v=WiQSJLUQobQ)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
