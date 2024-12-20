@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【百百】好遊戲推薦系列 07【潛水員戴夫 / Dave The Diver】深海世界大冒險，經營餐廳好簡單](https://www.youtube.com/watch?v=207U-_iF-lw)
 - [60秒介紹遊戲 - 【國津神：女神之道 | Kunitsu-Gami: Path of the Goddess】塔防和百鬼夜行元素的動作策略遊戲 #games #百百 #遊戲](https://www.youtube.com/watch?v=3mjOMYS97h8)
 - [【百百】純遊戲介紹系列 06【國津神：女神之道 / Kunitsu-Gami: Path of the Goddess】塔防和百鬼夜行元素的動作策略遊戲](https://www.youtube.com/watch?v=J6IjLqgV37Q)
 - [【百百】赫赫哈ㄏ一ˋ 吃我拳法 #咒 #百百](https://www.youtube.com/watch?v=tPTtM414KC4)
 - [【百百】咒DEMO 觸發BUG 突然就不恐怖了 #咒 #百百](https://www.youtube.com/watch?v=meCchT0u3dA)
-- [【百百】不要再幫我關燈啦 &lpar;火佛修一，心薩嘸哞&rpar; #咒 #百百](https://www.youtube.com/watch?v=v3SlcG7JHZY)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
