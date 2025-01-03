@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [60秒介紹遊戲 - 【歧路旅人 | Octopath Traveler】精緻風格的日式RPG，八個截然不同的旅程 #games #百百 #遊戲](https://www.youtube.com/watch?v=H6CTxDvnAto)
 - [60秒介紹遊戲 - 【OPUS：龍脈常歌 | Opus: Echo of Starsong】不完美的完美，最美的約定 #games #百百 #遊戲](https://www.youtube.com/watch?v=gK8z5mc2owM)
 - [【百百】好遊戲推薦系列 07【潛水員戴夫 / Dave The Diver】深海世界大冒險，經營餐廳好簡單](https://www.youtube.com/watch?v=207U-_iF-lw)
 - [60秒介紹遊戲 - 【國津神：女神之道 | Kunitsu-Gami: Path of the Goddess】塔防和百鬼夜行元素的動作策略遊戲 #games #百百 #遊戲](https://www.youtube.com/watch?v=3mjOMYS97h8)
 - [【百百】純遊戲介紹系列 06【國津神：女神之道 / Kunitsu-Gami: Path of the Goddess】塔防和百鬼夜行元素的動作策略遊戲](https://www.youtube.com/watch?v=J6IjLqgV37Q)
-- [【百百】赫赫哈ㄏ一ˋ 吃我拳法 #咒 #百百](https://www.youtube.com/watch?v=tPTtM414KC4)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
