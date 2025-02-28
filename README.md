@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【狂戰瓊斯】這是一款真真正正的潛行動作遊戲【印第安納瓊斯:古老之圈】【#百百】](https://www.youtube.com/watch?v=lhQ_5pNg2Kk)
+- [【方唐鏡拳王】我跳進來啦。怎樣？我又跳出去了，唉呀，我又跳進來啦！打我啊笨蛋【印第安納瓊斯:古老之圈】【#百百】](https://www.youtube.com/watch?v=7XNJ7pkQMMc)
 - [【百百】純遊戲介紹系列 07【歧路旅人 / Octopath Traveler】8條道路，8種命運，HD2D像素冒險的經典之作](https://www.youtube.com/watch?v=i3R3qL1_8wM)
 - [60秒介紹遊戲 - 【歧路旅人 | Octopath Traveler】精緻風格的日式RPG，八個截然不同的旅程 #games #百百 #遊戲](https://www.youtube.com/watch?v=H6CTxDvnAto)
 - [60秒介紹遊戲 - 【OPUS：龍脈常歌 | Opus: Echo of Starsong】不完美的完美，最美的約定 #games #百百 #遊戲](https://www.youtube.com/watch?v=gK8z5mc2owM)
-- [【百百】好遊戲推薦系列 07【潛水員戴夫 / Dave The Diver】深海世界大冒險，經營餐廳好簡單](https://www.youtube.com/watch?v=207U-_iF-lw)
-- [60秒介紹遊戲 - 【國津神：女神之道 | Kunitsu-Gami: Path of the Goddess】塔防和百鬼夜行元素的動作策略遊戲 #games #百百 #遊戲](https://www.youtube.com/watch?v=3mjOMYS97h8)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
