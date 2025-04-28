@@ -26,7 +26,7 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
-- [【李小龍】挖打 我是說在座的各位都是【#死亡擱淺】【#百百】](https://www.youtube.com/watch?v=Kv6jHxYmUlQ)
+- [【李小龍重出江湖】挖打 我是說在座的各位都是垃圾【#死亡擱淺】【#百百】](https://www.youtube.com/watch?v=Kv6jHxYmUlQ)
 - [【把你的東西給我啊】要送禮就大方點啊！【#死亡擱淺】【#百百】](https://www.youtube.com/watch?v=kuU_a9k-da8)
 - [【名符其實的卡車】駕照真的是雞腿換來的！【#死亡擱淺】【#百百】](https://www.youtube.com/watch?v=hrIhzEQP95E)
 - [【你必須想像山姆是快樂的】只能說爬山不適合我啊！！辛苦各位外送員了【#死亡擱淺】【#百百】](https://www.youtube.com/watch?v=ib-hOesGeFc)
