@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【嘴開光啦】資深幹員，百博士正在點名，點到請你出現【#明日方舟】【#百百】](https://www.youtube.com/shorts/WCTOM1E1CP0)
 - [【超級歐洲人】連兩抽單抽6星 天氣預報說外面車子很多【#明日方舟】【#百百】](https://www.youtube.com/watch?v=5SDW8TATcmk)
 - [【歐洲人說話】抱歉了，只能說我真的愛明日方舟【#明日方舟】【#百百】](https://www.youtube.com/shorts/GMCZfiUAEcQ)
 - [【被BT拖走啦】放開我啊【#死亡擱淺】【#百百】](https://www.youtube.com/shorts/Q3ZbitP1RYQ)
 - [【得罪了方丈還想走】這什麼作弊雷槍啊！【#死亡擱淺】【#百百】](https://www.youtube.com/watch?v=S9wUDLpUn2c)
-- [【泡水車】啊啊啊啊 三寶上路了【#死亡擱淺】【#百百】](https://www.youtube.com/shorts/yscqe8AlSB4)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
