@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【ARAM詛咒】行動代號：蘋果蘋果【#英雄聯盟】【#百百】](https://www.youtube.com/shorts/ND4mGsWrl2M)
 - [【戀基無雙】男同俱樂部復活?【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/wPL7HorzqBY)
 - [【得罪了方丈還想走】這什麼卑鄙打法【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/V7JZDG1Du6w)
 - [【武器給我交出來】把你的戟給我!【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/cnIGUR7Q5WQ)
 - [【嘴開光啦】資深幹員，百博士正在點名，點到請你出現【#明日方舟】【#百百】](https://www.youtube.com/shorts/WCTOM1E1CP0)
-- [【超級歐洲人】連兩抽單抽6星 天氣預報說外面車子很多【#明日方舟】【#百百】](https://www.youtube.com/shorts/5SDW8TATcmk)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
