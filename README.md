@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【劉備你不能死啊】快被氣死【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/FdcG5vbHOiM)
 - [【大耳賊出來受死】幫大哥報仇【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/sSUgSgnLOSI)
 - [【ARAM詛咒】行動代號：蘋果蘋果【#英雄聯盟】【#百百】](https://www.youtube.com/shorts/ND4mGsWrl2M)
 - [【戀基無雙】男同俱樂部復活?【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/wPL7HorzqBY)
 - [【得罪了方丈還想走】這什麼卑鄙打法【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/V7JZDG1Du6w)
-- [【武器給我交出來】把你的戟給我!【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/cnIGUR7Q5WQ)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
