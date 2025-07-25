@@ -26,11 +26,11 @@
 
 ## Youtube
 <!-- YOUTUBE:START -->
+- [【#百百】#好遊戲推薦系列 08【#九十六號公路 / Road 96】放鬆放鬆放鬆，來一場公路之旅吧，選擇吧，然後不後悔](https://www.youtube.com/watch?v=fH9ieFQf9Qg)
 - [【超級熊熊】吃我熊掌拳法【#英雄聯盟】【#百百】](https://www.youtube.com/shorts/KYUfwpTFSeg)
 - [【劉備你不能死啊】快被氣死【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/FdcG5vbHOiM)
 - [【大耳賊出來受死】幫大哥報仇【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/sSUgSgnLOSI)
 - [【ARAM詛咒】行動代號：蘋果蘋果【#英雄聯盟】【#百百】](https://www.youtube.com/shorts/ND4mGsWrl2M)
-- [【戀基無雙】男同俱樂部復活?【#真三國無雙起源】【#百百】](https://www.youtube.com/shorts/wPL7HorzqBY)
 <!-- YOUTUBE:END -->
 
 <!-- - [ ] TypeScript-Tree Visualization
