@@ -1,30 +1,82 @@
-# Hi there 👋
+<div align="center">
 
-## 個人資料
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Bobo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 
-- 🤖姓名：Bobo
-- 📧Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
-- 🌐Blog: <a href="https://bobo-blog.vercel.app/">https://bobo-blog.vercel.app/</a> (In maintenance)
+<a href="https://github.com/bobo100">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8A6FF7&center=true&vCenter=true&width=600&lines=%E5%87%A1%E4%BA%BA%E6%8C%81%E7%BA%8C%E5%8A%AA%E5%8A%9B+%E2%9C%A8;Frontend+Developer+%7C+Lifelong+Learner;Welcome+to+my+little+corner+of+GitHub!" alt="Typing SVG" />
+</a>
 
-***
+<br/>
 
-## 簡介
+<img src="https://komarev.com/ghpvc/?username=bobo100&label=Profile%20views&color=8a6ff7&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/bobo100?label=Followers&style=flat&color=8a6ff7" alt="followers" />
+<img src="https://img.shields.io/github/stars/bobo100?label=Stars&style=flat&color=8a6ff7" alt="stars" />
 
-凡人持續努力。
+</div>
 
-最近學到的經驗：確診真的非常非常痛苦！！！
+---
 
-***
+## 🧑‍💻 個人資料
 
-## 準備進行的個人練習
+```yaml
+name:    "Bobo"
+email:   "w150lione@gmail.com"
+blog:    "https://bobo-blog.vercel.app/   # In maintenance"
+role:    "Frontend Developer"
+hobbies: ["coding", "gaming", "youtube"]
+```
 
-- [ ] TypeScript-Tree Visualization
-- [ ] Dice
-- [ ] Black Desert Statistics (More Detail and Useful tool)
-- [ ] Stock UI
-- [ ] ~~Tarot Prediction (無法完成 卡片難蒐集)~~
+<p>
+  <a href="mailto:w150lione@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://bobo-blog.vercel.app/">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="blog"/>
+  </a>
+  <a href="https://github.com/bobo100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
 
-## Youtube
+---
+
+## 📖 簡介
+
+> *凡人持續努力。*
+>
+> 最近學到的經驗:確診真的非常非常痛苦!!!
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+</p>
+
+---
+
+## 🚀 準備進行的個人練習
+
+| Status | Project |
+| :----: | :------ |
+| ⬜ | **TypeScript-Tree Visualization** |
+| ⬜ | **Dice** |
+| ⬜ | **Black Desert Statistics** _(More Detail and Useful tool)_ |
+| ⬜ | **Stock UI** |
+| ❌ | ~~Tarot Prediction~~ _(無法完成 卡片難蒐集)_ |
+
+---
+
+## 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 - [【百百】嘶嘶~蛇快要可以穿鞋了🤩](https://www.youtube.com/shorts/6VbUxv9WhYY)
 - [【百百】最近迷上在你的鼻孔尿尿 #lolshorts  #lol  #大混戰 #Montagem Miau](https://www.youtube.com/shorts/VKizxgLEfWA)
@@ -33,62 +85,38 @@
 - [【百百】音不準 #lolshorts  #leagueoflegends  #宮崎駿](https://www.youtube.com/shorts/ROPQTb36rM4)
 <!-- YOUTUBE:END -->
 
-<!-- - [ ] TypeScript-Tree Visualization
-    <div class="container">
-    <div class="skills not_start">0%</div>
-    </div>
-- [ ] Scroll Animation Simple 01
-    <div class="container">
-    <div class="skills twity">10%</div>
-    </div>
-- [ ] Simple UI Components (button)
-    <div class="container">
-    <div class="skills not_start">0%</div>
-    </div>
-- [ ] Tarot Prediction
-    <div class="container">
-    <div class="skills not_start">0%</div>
-    </div>
-- [X] Card Draw Probability Simulation
-    <div class="container">
-    <div class="skills ninty">90%</div>
-    </div>
-- [X] Webpage Thumbnail Maker(Bookmark)
-    <div class="container">
-    <div class="skills ninty">90%</div>
-    </div>
+---
 
-<style>
-.container {
-    width: 18%;
-    background-color: dimgray;
-    border-radius: 15px;
+## 📊 GitHub Stats
 
-}
-.skills {
-    text-align: right;
-    line-height: 20px;
-    color: white;
-    border-radius: 15px;
-    padding-right: 3px;
-}
-.not_start {
+<div align="center">
 
-}
-.twity {width: 20%; background-color: #a2cffe;}
-.ninty {width: 90%; background-color: #a2cffe;}
-</style> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact&theme=radical&langs_count=8" alt="top langs"/>
 
-***
+<br/>
+<br/>
 
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/lione1234) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobo100&theme=radical&hide_border=false" alt="streak stats" />
 
-<div align=center><img width="500" src ="https://leetcard.jacoblin.cool/lione1234"/></div>
+<br/>
+<br/>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical) -->
+<img width="500" src="https://leetcard.jacoblin.cool/lione1234?theme=dark&font=Karma&ext=heatmap" alt="leetcode stats"/>
 
-<div align=center><img width="500" src ="https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical"/></div>
+<br/>
+<br/>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact) -->
+<img src="https://github-profile-trophy.vercel.app/?username=bobo100&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 
-<div align=center><img width="500" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact"/></div>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
