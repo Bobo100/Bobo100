@@ -1,30 +1,37 @@
-# Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Hi there 👋 I'm Bobo" width="100%"/>
+</p>
 
-## 個人資料
+## 🧑‍💻 個人資料
 
-- 🤖姓名：Bobo
-- 📧Email：<a href="mailto:w150lione@gmail.com">w150lione@gmail.com</a>
-- 🌐Blog: <a href="https://bobo-blog.vercel.app/">https://bobo-blog.vercel.app/</a> (In maintenance)
+```yaml
+name:    "Bobo"
+email:   "w150lione@gmail.com"
+blog:    "https://bobo-blog.vercel.app/   # In maintenance"
+role:    "Frontend Developer"
+hobbies: ["coding", "gaming", "youtube"]
+```
 
-***
+## 📖 簡介
 
-## 簡介
+> *凡人持續努力。*
+>
+> 最近學到的經驗:確診真的非常非常痛苦!!!
 
-凡人持續努力。
+<br/>
 
-最近學到的經驗：確診真的非常非常痛苦！！！
+<p align="center">
+  <img src="assets/tech.svg" alt="Tech Stack" width="880"/>
+</p>
 
-***
+<br/>
 
-## 準備進行的個人練習
+<p align="center">
+  <img src="assets/projects.svg" alt="Practice Projects" width="880"/>
+</p>
 
-- [ ] TypeScript-Tree Visualization
-- [ ] Dice
-- [ ] Black Desert Statistics (More Detail and Useful tool)
-- [ ] Stock UI
-- [ ] ~~Tarot Prediction (無法完成 卡片難蒐集)~~
+## 📺 Latest YouTube Videos
 
-## Youtube
 <!-- YOUTUBE:START -->
 - [【百百】嘶嘶~蛇快要可以穿鞋了🤩](https://www.youtube.com/shorts/6VbUxv9WhYY)
 - [【百百】最近迷上在你的鼻孔尿尿 #lolshorts  #lol  #大混戰 #Montagem Miau](https://www.youtube.com/shorts/VKizxgLEfWA)
@@ -33,62 +40,23 @@
 - [【百百】音不準 #lolshorts  #leagueoflegends  #宮崎駿](https://www.youtube.com/shorts/ROPQTb36rM4)
 <!-- YOUTUBE:END -->
 
-<!-- - [ ] TypeScript-Tree Visualization
-    <div class="container">
-    <div class="skills not_start">0%</div>
-    </div>
-- [ ] Scroll Animation Simple 01
-    <div class="container">
-    <div class="skills twity">10%</div>
-    </div>
-- [ ] Simple UI Components (button)
-    <div class="container">
-    <div class="skills not_start">0%</div>
-    </div>
-- [ ] Tarot Prediction
-    <div class="container">
-    <div class="skills not_start">0%</div>
-    </div>
-- [X] Card Draw Probability Simulation
-    <div class="container">
-    <div class="skills ninty">90%</div>
-    </div>
-- [X] Webpage Thumbnail Maker(Bookmark)
-    <div class="container">
-    <div class="skills ninty">90%</div>
-    </div>
+<br/>
 
-<style>
-.container {
-    width: 18%;
-    background-color: dimgray;
-    border-radius: 15px;
+<p align="center">
+  <img src="assets/stats.svg" alt="GitHub Stats" width="48%"/>
+  <img src="assets/top-langs.svg" alt="Top Languages" width="48%"/>
+</p>
 
-}
-.skills {
-    text-align: right;
-    line-height: 20px;
-    color: white;
-    border-radius: 15px;
-    padding-right: 3px;
-}
-.not_start {
+<p align="center">
+  <img src="assets/leetcode.svg" alt="LeetCode Stats" width="48%"/>
+</p>
 
-}
-.twity {width: 20%; background-color: #a2cffe;}
-.ninty {width: 90%; background-color: #a2cffe;}
-</style> -->
+<sub align="center">
 
-***
+Stats SVGs 由 [`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml) 每天自動重新產生,圖檔存在 [`assets/`](assets)。
 
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/lione1234) -->
+</sub>
 
-<div align=center><img width="500" src ="https://leetcard.jacoblin.cool/lione1234"/></div>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical) -->
-
-<div align=center><img width="500" src ="https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical"/></div>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact) -->
-
-<div align=center><img width="500" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact"/></div>
+<p align="center">
+  <img src="assets/footer.svg" alt="Thanks for visiting!" width="100%"/>
+</p>
