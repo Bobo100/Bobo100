@@ -2,8 +2,6 @@
   <img src="assets/header.svg" alt="Hi there 👋 I'm Bobo" width="100%"/>
 </p>
 
----
-
 ## 🧑‍💻 個人資料
 
 ```yaml
@@ -14,31 +12,23 @@ role:    "Frontend Developer"
 hobbies: ["coding", "gaming", "youtube"]
 ```
 
----
-
 ## 📖 簡介
 
 > *凡人持續努力。*
 >
 > 最近學到的經驗:確診真的非常非常痛苦!!!
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="assets/tech.svg" alt="Tech Stack" width="880"/>
 </p>
 
----
-
-## 🚀 準備進行的個人練習
+<br/>
 
 <p align="center">
-  <img src="assets/projects.svg" alt="Practice Projects" width="900"/>
+  <img src="assets/projects.svg" alt="Practice Projects" width="880"/>
 </p>
-
----
 
 ## 📺 Latest YouTube Videos
 
@@ -50,9 +40,7 @@ hobbies: ["coding", "gaming", "youtube"]
 - [【百百】音不準 #lolshorts  #leagueoflegends  #宮崎駿](https://www.youtube.com/shorts/ROPQTb36rM4)
 <!-- YOUTUBE:END -->
 
----
-
-## 📊 Stats
+<br/>
 
 <p align="center">
   <img src="assets/stats.svg" alt="GitHub Stats" width="48%"/>
@@ -63,9 +51,11 @@ hobbies: ["coding", "gaming", "youtube"]
   <img src="assets/leetcode.svg" alt="LeetCode Stats" width="48%"/>
 </p>
 
-> Stats SVGs 由 `.github/workflows/update-stats.yml` 每天自動重新產生,圖檔存在 `assets/`。
+<sub align="center">
 
----
+Stats SVGs 由 [`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml) 每天自動重新產生,圖檔存在 [`assets/`](assets)。
+
+</sub>
 
 <p align="center">
   <img src="assets/footer.svg" alt="Thanks for visiting!" width="100%"/>

@@ -1,38 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 56">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180">
+  <defs>
+    <linearGradient id="card-border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F72585"/>
+      <stop offset="50%" stop-color="#7209B7"/>
+      <stop offset="100%" stop-color="#4CC9F0"/>
+    </linearGradient>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#15101F"/>
+      <stop offset="100%" stop-color="#0F0E1A"/>
+    </linearGradient>
+  </defs>
+
   <style>
-    .chip text { font-family: 'SF Mono', ui-monospace, Menlo, monospace; font-size: 13px; font-weight: 700; letter-spacing: 0.2px; }
+    .chip-text { font-family: 'SF Mono', ui-monospace, Menlo, monospace; font-size: 13px; font-weight: 700; letter-spacing: 0.3px; }
+    .title     { font-family: 'SF Mono', ui-monospace, Menlo, monospace; font-size: 16px; font-weight: 700; fill: #FFFFFE; }
+    .subtitle  { font-family: 'SF Mono', ui-monospace, Menlo, monospace; font-size: 11px; font-weight: 600; fill: #94A1B2; letter-spacing: 2px; }
   </style>
 
-  <g class="chip" transform="translate(0,10)">
-    <rect width="110" height="36" rx="18" fill="#F7DF1E"/>
-    <text x="55" y="23" text-anchor="middle" fill="#000">JavaScript</text>
-  </g>
-  <g class="chip" transform="translate(118,10)">
-    <rect width="110" height="36" rx="18" fill="#3178C6"/>
-    <text x="55" y="23" text-anchor="middle" fill="#fff">TypeScript</text>
-  </g>
-  <g class="chip" transform="translate(236,10)">
-    <rect width="78" height="36" rx="18" fill="#61DAFB"/>
-    <text x="39" y="23" text-anchor="middle" fill="#000">React</text>
-  </g>
-  <g class="chip" transform="translate(322,10)">
-    <rect width="86" height="36" rx="18" fill="#0F0E17"/>
-    <text x="43" y="23" text-anchor="middle" fill="#fff">Next.js</text>
-  </g>
-  <g class="chip" transform="translate(416,10)">
-    <rect width="90" height="36" rx="18" fill="#339933"/>
-    <text x="45" y="23" text-anchor="middle" fill="#fff">Node.js</text>
-  </g>
-  <g class="chip" transform="translate(514,10)">
-    <rect width="78" height="36" rx="18" fill="#E34F26"/>
-    <text x="39" y="23" text-anchor="middle" fill="#fff">HTML5</text>
-  </g>
-  <g class="chip" transform="translate(600,10)">
-    <rect width="66" height="36" rx="18" fill="#1572B6"/>
-    <text x="33" y="23" text-anchor="middle" fill="#fff">CSS3</text>
-  </g>
-  <g class="chip" transform="translate(674,10)">
-    <rect width="58" height="36" rx="18" fill="#F05032"/>
-    <text x="29" y="23" text-anchor="middle" fill="#fff">Git</text>
+  <rect width="880" height="180" rx="20" fill="url(#card-bg)"/>
+  <rect width="880" height="180" rx="20" fill="none" stroke="url(#card-border)" stroke-width="2"/>
+
+  <text x="32" y="40" class="subtitle">TECH  STACK</text>
+  <text x="32" y="64" class="title">🛠  Languages &amp; Frameworks</text>
+
+  <line x1="32" y1="82" x2="848" y2="82" stroke="#2A1F3D" stroke-width="1"/>
+
+  <g transform="translate(32,108)">
+    <g>
+      <rect width="100" height="40" rx="20" fill="#F7DF1E"/>
+      <text x="50" y="25" text-anchor="middle" class="chip-text" fill="#0F0E1A">JavaScript</text>
+    </g>
+    <g transform="translate(110,0)">
+      <rect width="100" height="40" rx="20" fill="#3178C6"/>
+      <text x="50" y="25" text-anchor="middle" class="chip-text" fill="#fff">TypeScript</text>
+    </g>
+    <g transform="translate(220,0)">
+      <rect width="78" height="40" rx="20" fill="#61DAFB"/>
+      <text x="39" y="25" text-anchor="middle" class="chip-text" fill="#0F0E1A">React</text>
+    </g>
+    <g transform="translate(308,0)">
+      <rect width="86" height="40" rx="20" fill="#0F0E17" stroke="#FFFFFE" stroke-width="1"/>
+      <text x="43" y="25" text-anchor="middle" class="chip-text" fill="#fff">Next.js</text>
+    </g>
+    <g transform="translate(404,0)">
+      <rect width="92" height="40" rx="20" fill="#339933"/>
+      <text x="46" y="25" text-anchor="middle" class="chip-text" fill="#fff">Node.js</text>
+    </g>
+    <g transform="translate(506,0)">
+      <rect width="80" height="40" rx="20" fill="#E34F26"/>
+      <text x="40" y="25" text-anchor="middle" class="chip-text" fill="#fff">HTML5</text>
+    </g>
+    <g transform="translate(596,0)">
+      <rect width="68" height="40" rx="20" fill="#1572B6"/>
+      <text x="34" y="25" text-anchor="middle" class="chip-text" fill="#fff">CSS3</text>
+    </g>
+    <g transform="translate(674,0)">
+      <rect width="58" height="40" rx="20" fill="#F05032"/>
+      <text x="29" y="25" text-anchor="middle" class="chip-text" fill="#fff">Git</text>
+    </g>
   </g>
 </svg>
