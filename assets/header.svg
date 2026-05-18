@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="header-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F72585">
+        <animate attributeName="stop-color" values="#F72585;#FB5607;#F72585" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7209B7">
+        <animate attributeName="stop-color" values="#7209B7;#B5179E;#7209B7" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3A0CA3">
+        <animate attributeName="stop-color" values="#3A0CA3;#4361EE;#3A0CA3" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#header-bg)"/>
+
+  <g fill="white">
+    <circle cx="80" cy="60" r="3" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="190" r="4" opacity="0.5"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="40" r="2.4" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="200" r="3" opacity="0.4"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="80" r="2.5" opacity="0.6"><animate attributeName="opacity" values="0.2;0.85;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="50" r="2" opacity="0.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="180" r="3" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="35" r="2" opacity="0.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="220" r="2.5" opacity="0.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path opacity="0.16" fill="white">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+             values="M0,215 C200,185 400,245 600,215 C800,185 1000,245 1200,215 L1200,260 L0,260 Z;
+                     M0,215 C200,245 400,185 600,215 C800,245 1000,185 1200,215 L1200,260 L0,260 Z;
+                     M0,215 C200,185 400,245 600,215 C800,185 1000,245 1200,215 L1200,260 L0,260 Z"/>
+  </path>
+
+  <text x="600" y="118" text-anchor="middle"
+        font-family="'SF Mono', ui-monospace, Menlo, monospace"
+        font-size="56" font-weight="800" fill="white"
+        style="letter-spacing:-1px">Hi there 👋 I'm Bobo</text>
+
+  <text x="600" y="158" text-anchor="middle"
+        font-family="'SF Mono', ui-monospace, Menlo, monospace"
+        font-size="20" font-weight="500" fill="rgba(255,255,255,0.92)">
+    Frontend Developer · Lifelong Learner
+  </text>
+
+  <text x="600" y="195" text-anchor="middle"
+        font-family="ui-monospace, monospace" font-size="14"
+        fill="rgba(255,255,255,0.72)">
+    ✨  Welcome to my little corner of GitHub  ✨
+  </text>
+</svg>

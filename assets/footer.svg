@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3A0CA3">
+        <animate attributeName="stop-color" values="#3A0CA3;#4361EE;#3A0CA3" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7209B7">
+        <animate attributeName="stop-color" values="#7209B7;#B5179E;#7209B7" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F72585">
+        <animate attributeName="stop-color" values="#F72585;#FB5607;#F72585" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#footer-bg)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+             values="M0,55 C200,90 400,15 600,50 C800,85 1000,15 1200,45 L1200,160 L0,160 Z;
+                     M0,55 C200,15 400,90 600,50 C800,15 1000,90 1200,45 L1200,160 L0,160 Z;
+                     M0,55 C200,90 400,15 600,50 C800,85 1000,15 1200,45 L1200,160 L0,160 Z"/>
+  </path>
+
+  <g fill="white" opacity="0.7">
+    <circle cx="200" cy="100" r="2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="120" r="2.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="100" r="2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="125" text-anchor="middle"
+        font-family="'SF Mono', ui-monospace, Menlo, monospace"
+        font-size="20" font-weight="700" fill="white"
+        style="letter-spacing:1px">
+    ✨  Thanks for visiting!  ✨
+  </text>
+</svg>

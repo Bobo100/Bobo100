@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 56">
+  <style>
+    .chip text { font-family: 'SF Mono', ui-monospace, Menlo, monospace; font-size: 13px; font-weight: 700; letter-spacing: 0.2px; }
+  </style>
+
+  <g class="chip" transform="translate(0,10)">
+    <rect width="110" height="36" rx="18" fill="#F7DF1E"/>
+    <text x="55" y="23" text-anchor="middle" fill="#000">JavaScript</text>
+  </g>
+  <g class="chip" transform="translate(118,10)">
+    <rect width="110" height="36" rx="18" fill="#3178C6"/>
+    <text x="55" y="23" text-anchor="middle" fill="#fff">TypeScript</text>
+  </g>
+  <g class="chip" transform="translate(236,10)">
+    <rect width="78" height="36" rx="18" fill="#61DAFB"/>
+    <text x="39" y="23" text-anchor="middle" fill="#000">React</text>
+  </g>
+  <g class="chip" transform="translate(322,10)">
+    <rect width="86" height="36" rx="18" fill="#0F0E17"/>
+    <text x="43" y="23" text-anchor="middle" fill="#fff">Next.js</text>
+  </g>
+  <g class="chip" transform="translate(416,10)">
+    <rect width="90" height="36" rx="18" fill="#339933"/>
+    <text x="45" y="23" text-anchor="middle" fill="#fff">Node.js</text>
+  </g>
+  <g class="chip" transform="translate(514,10)">
+    <rect width="78" height="36" rx="18" fill="#E34F26"/>
+    <text x="39" y="23" text-anchor="middle" fill="#fff">HTML5</text>
+  </g>
+  <g class="chip" transform="translate(600,10)">
+    <rect width="66" height="36" rx="18" fill="#1572B6"/>
+    <text x="33" y="23" text-anchor="middle" fill="#fff">CSS3</text>
+  </g>
+  <g class="chip" transform="translate(674,10)">
+    <rect width="58" height="36" rx="18" fill="#F05032"/>
+    <text x="29" y="23" text-anchor="middle" fill="#fff">Git</text>
+  </g>
+</svg>
