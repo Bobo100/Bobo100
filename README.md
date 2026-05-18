@@ -65,13 +65,39 @@ hobbies: ["coding", "gaming", "youtube"]
 
 ## 🚀 準備進行的個人練習
 
-| Status | Project |
-| :----: | :------ |
-| ⬜ | **TypeScript-Tree Visualization** |
-| ⬜ | **Dice** |
-| ⬜ | **Black Desert Statistics** _(More Detail and Useful tool)_ |
-| ⬜ | **Stock UI** |
-| ❌ | ~~Tarot Prediction~~ _(無法完成 卡片難蒐集)_ |
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🌳 TypeScript-Tree Visualization</h3>
+      <p>用 TypeScript 視覺化樹狀結構</p>
+      <img src="https://img.shields.io/badge/status-planned-FFB400?style=flat-square" alt="planned"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🎲 Dice</h3>
+      <p>骰子模擬 / 機率練習</p>
+      <img src="https://img.shields.io/badge/status-planned-FFB400?style=flat-square" alt="planned"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>⚔️ Black Desert Statistics</h3>
+      <p>更詳細、實用的黑色沙漠數據工具</p>
+      <img src="https://img.shields.io/badge/status-planned-FFB400?style=flat-square" alt="planned"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📈 Stock UI</h3>
+      <p>股票相關介面練習</p>
+      <img src="https://img.shields.io/badge/status-planned-FFB400?style=flat-square" alt="planned"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🔮 <s>Tarot Prediction</s></h3>
+      <p><i>無法完成 — 卡片難蒐集</i></p>
+      <img src="https://img.shields.io/badge/status-cancelled-DC3545?style=flat-square" alt="cancelled"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,13 +117,17 @@ hobbies: ["coding", "gaming", "youtube"]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact&theme=radical&langs_count=8" alt="top langs"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=bobo100&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" alt="github stats"/>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobo100&theme=radical&hide_border=false" alt="streak stats" />
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo100&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="top langs"/>
+
+<br/>
+<br/>
+
+<img width="500" src="https://streak-stats.demolab.com?user=bobo100&theme=radical&hide_border=false" alt="streak stats" />
 
 <br/>
 <br/>
