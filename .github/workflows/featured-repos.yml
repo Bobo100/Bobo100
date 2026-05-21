@@ -40,9 +40,8 @@ jobs:
               : '';
 
             const lines = visible.map(r => {
-              const stars = r.stargazers_count ? ` · ⭐ ${r.stargazers_count}` : '';
-              const desc  = r.description ? ` — ${r.description}` : '';
-              return `- 🔹 [**${r.name}**](${r.html_url})${langBadge(r.language)}${stars}${desc}`;
+              const desc = r.description ? ` — ${r.description}` : '';
+              return `- 🔹 [**${r.name}**](${r.html_url})${langBadge(r.language)}${desc}`;
             });
 
             const md = lines.length
