@@ -27,9 +27,18 @@ hobbies: ["coding", "gaming", "youtube"]
 
 ## 📖 簡介
 
-> *凡人持續努力。*
->
-> 最近學到的經驗:確診真的非常非常痛苦!!!
+- 👨‍💻 Frontend Developer,主力 **TypeScript / React / Next.js**
+- 🌱 最近在做小型 side projects 練手 — 想到有趣的就丟進下面的清單
+- 🎮 興趣:寫扣、玩 LoL 大混戰、黑色沙漠、剪 YouTube Shorts
+- 📺 副業:YouTube 偶爾上片(下方有最新 5 部)
+- 💬 座右銘:*凡人持續努力*
+
+### 🔥 最近活躍的 Repos
+
+> 由 [`featured-repos.yml`](.github/workflows/featured-repos.yml) 每 6 小時自動更新一次,取近期推送 + star 數最多的前 6 個。
+
+<!-- REPOS:START -->
+<!-- REPOS:END -->
 
 ## 🛠️ Tech Stack
 
