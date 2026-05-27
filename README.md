@@ -7,7 +7,7 @@
 ```yaml
 name:    "Bobo"
 email:   "w150lione@gmail.com"
-blog:    "https://bobo-blog.vercel.app/   # In maintenance"
+blog:    "https://bobo100.dev/   # In maintenance"
 role:    "Frontend Developer"
 hobbies: ["coding", "gaming", "youtube"]
 ```
