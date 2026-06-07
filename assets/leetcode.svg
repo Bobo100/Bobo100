@@ -18,22 +18,22 @@
   <line x1="32" y1="82" x2="468" y2="82" stroke="#2A1F3D" stroke-width="1"/>
 
   <text x="32" y="118" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#94A1B2" letter-spacing="2">SOLVED</text>
-  <text x="32" y="158" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="36" font-weight="800" fill="#FFFFFE">69<tspan font-size="18" font-weight="500" fill="#94A1B2"> / 3949</tspan></text>
+  <text x="32" y="158" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="36" font-weight="800" fill="#FFFFFE">69<tspan font-size="18" font-weight="500" fill="#94A1B2"> / 3957</tspan></text>
   <text x="468" y="118" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#94A1B2" letter-spacing="2">RANKING</text>
-  <text x="468" y="158" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="800" fill="#4CC9F0">#2016162</text>
+  <text x="468" y="158" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="800" fill="#4CC9F0">#2017447</text>
   <circle cx="40" cy="204" r="5" fill="#06FFA5"/>
   <text x="56" y="209" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#06FFA5">Easy</text>
   <rect x="124" y="196" width="296" height="14" rx="7" fill="#1A1428"/>
   <rect x="124" y="196" width="13" height="14" rx="7" fill="#06FFA5"/>
-  <text x="468" y="209" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#B8C1D1">43 / 947</text>
+  <text x="468" y="209" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#B8C1D1">43 / 949</text>
   <circle cx="40" cy="242" r="5" fill="#FFD60A"/>
   <text x="56" y="247" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#FFD60A">Medium</text>
   <rect x="124" y="234" width="296" height="14" rx="7" fill="#1A1428"/>
   <rect x="124" y="234" width="3" height="14" rx="7" fill="#FFD60A"/>
-  <text x="468" y="247" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#B8C1D1">22 / 2063</text>
+  <text x="468" y="247" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#B8C1D1">22 / 2066</text>
   <circle cx="40" cy="280" r="5" fill="#FF375F"/>
   <text x="56" y="285" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#FF375F">Hard</text>
   <rect x="124" y="272" width="296" height="14" rx="7" fill="#1A1428"/>
   <rect x="124" y="272" width="2" height="14" rx="7" fill="#FF375F"/>
-  <text x="468" y="285" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#B8C1D1">4 / 939</text>
+  <text x="468" y="285" text-anchor="end" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#B8C1D1">4 / 942</text>
 </svg>
