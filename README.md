@@ -52,11 +52,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## ✍️ 最新文章
 
 <!-- BLOG:START -->
-- [書庫「皮膚」設計：書脊書架(bookshelf spine)與暖色 editorial](https://bobo100.dev/learning/%E6%9B%B8%E5%BA%AB%E7%9A%AE%E8%86%9A-bookshelf-spine-%E8%88%87-warm-editorial)
+- [書庫「皮膚」設計：書脊書架&lpar;bookshelf spine&rpar;與暖色 editorial](https://bobo100.dev/learning/%E6%9B%B8%E5%BA%AB%E7%9A%AE%E8%86%9A-bookshelf-spine-%E8%88%87-warm-editorial)
 - [Async function-Await 函式](https://bobo100.dev/learning/async-function-await-%E5%87%BD%E5%BC%8F)
 - [throw Error用法](https://bobo100.dev/learning/throw-error%E7%94%A8%E6%B3%95)
 - [TypeScript 特性 - Interface](https://bobo100.dev/learning/typescript-%E7%89%B9%E6%80%A7-interface)
-- [TypeScript 資料型別 - 元組(Tuple) & 列舉(Enum)](https://bobo100.dev/learning/typescript-%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5-%E5%85%83%E7%B5%84tuple-%E5%88%97%E8%88%89enum)
+- [TypeScript 資料型別 - 元組&lpar;Tuple&rpar; &amp; 列舉&lpar;Enum&rpar;](https://bobo100.dev/learning/typescript-%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5-%E5%85%83%E7%B5%84tuple-%E5%88%97%E8%88%89enum)
 <!-- BLOG:END -->
 
 ## 🛠️ 最近更新的 repo
