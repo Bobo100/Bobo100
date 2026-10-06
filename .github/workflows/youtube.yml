@@ -14,8 +14,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Pull in dev.to posts
+      - name: Pull in latest YouTube videos
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC05WC738SwWj5wSiTSDd0Vg"
+
+      - name: Pull in latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://bobo100.dev/feed.xml"
+          max_post_count: 5

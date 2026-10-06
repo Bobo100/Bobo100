@@ -2,7 +2,8 @@
 """Generate hand-styled SVG cards for GitHub & LeetCode stats.
 
 Reads from GitHub's REST API and LeetCode's public GraphQL endpoint,
-writes assets/stats.svg, assets/top-langs.svg, assets/leetcode.svg.
+writes assets/stats.svg, assets/top-langs.svg, assets/leetcode.svg,
+and the REPOS section of README.md.
 """
 from __future__ import annotations
 
@@ -292,6 +293,39 @@ def render_leetcode_placeholder() -> str:
 """
 
 
+# ---------- README: recently updated repos ----------
+
+README = ASSETS.parent / "README.md"
+REPO_SKIP = {GH_USER.lower()}  # 個人首頁 repo 自己每天都會被 bot commit,不列
+
+
+def render_recent_repos(repos: list[dict], top_n: int = 5) -> str:
+    picked = [
+        r for r in repos
+        if not r.get("fork") and not r.get("archived") and r["name"].lower() not in REPO_SKIP
+    ]
+    picked.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
+    lines = []
+    for r in picked[:top_n]:
+        desc = (r.get("description") or "").replace("|", "/").strip()
+        link = f"[{r['name']}]({r['html_url']})"
+        demo = f" · [Demo]({r['homepage']})" if r.get("homepage") else ""
+        lines.append(f"- {link}{demo} — {desc} <sub>{(r.get('pushed_at') or '')[:10]}</sub>")
+    return "\n".join(lines)
+
+
+def update_readme_section(tag: str, body: str) -> None:
+    start, end = f"<!-- {tag}:START -->", f"<!-- {tag}:END -->"
+    text = README.read_text(encoding="utf-8")
+    if start not in text or end not in text:
+        print(f"  ⚠️  README has no {tag} markers, skipped", file=sys.stderr)
+        return
+    head, rest = text.split(start, 1)
+    _, tail = rest.split(end, 1)
+    README.write_text(f"{head}{start}\n{body}\n{end}{tail}", encoding="utf-8")
+    print(f"  updated README section {tag}")
+
+
 # ---------- main ----------
 
 def write(name: str, content: str) -> None:
@@ -319,6 +353,8 @@ def main() -> int:
         write("stats.svg", render_stats_card(user, repos))
     if langs:
         write("top-langs.svg", render_top_langs(langs))
+    if repos:
+        update_readme_section("REPOS", render_recent_repos(repos))
 
     print(f"==> Fetching LeetCode data for {LC_USER}")
     lc = safe(fetch_leetcode, {}, "fetch_leetcode")
