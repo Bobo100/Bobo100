@@ -34,9 +34,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain assets)" ]; then
-            git add assets
-            git commit -m "chore(stats): refresh generated SVGs"
+          if [ -n "$(git status --porcelain assets README.md)" ]; then
+            git add assets README.md
+            git commit -m "chore(stats): refresh generated SVGs and recent repos"
             git push
           else
             echo "No changes."

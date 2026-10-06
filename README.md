@@ -7,7 +7,7 @@
 ```yaml
 name:    "Bobo"
 email:   "w150lione@gmail.com"
-blog:    "https://bobo100.dev/   # In maintenance"
+blog:    "https://bobo100.dev/"
 role:    "Frontend Developer"
 hobbies: ["coding", "gaming", "youtube"]
 ```
@@ -26,9 +26,46 @@ hobbies: ["coding", "gaming", "youtube"]
 
 <br/>
 
-<p align="center">
-  <img src="assets/projects.svg" alt="Practice Projects" width="880"/>
-</p>
+## 🚀 作品
+
+| 作品 | 說明 | 連結 |
+|---|---|---|
+| **Kurau Blog** | 記錄學過的技術、玩過的遊戲、看過的書與劇 | [bobo100.dev](https://bobo100.dev) |
+| **Style Explorer** | 色票 + 真實網站預覽，即時換色、WCAG 對比檢查、一鍵匯出 CSS / Tailwind | [Demo](https://style-explorer-henna.vercel.app) · [Repo](https://github.com/Bobo100/style-explorer) |
+| **迴聲 Vocal Studio** | 虛構歌唱教室官網重構：Astro 內容站 + Svelte 5 local-first 練習日誌 | [Demo](https://echo-vocal-studio.vercel.app) |
+| **on me** | 請客點餐工具：金主開菜單、來客自助點、自動算每位金主要付多少 | [Demo](https://splitmenu.vercel.app) |
+
+<details>
+<summary>小工具與練習</summary>
+
+| 作品 | 說明 | 連結 |
+|---|---|---|
+| 明日方舟抽卡模擬 | 抽卡機率與保底模擬 | [Demo](https://bobo100.github.io/arknights-gacha-sim/) · [Repo](https://github.com/Bobo100/arknights-gacha-sim) |
+| 黑色沙漠小工具 | 自己方便用的黑沙計算工具 | [Demo](https://bobo100.github.io/black-desert-tool/) · [Repo](https://github.com/Bobo100/black-desert-tool) |
+| 小畫家 Canvas-Paint | React + Canvas 線上小畫家 | [Demo](https://bobo100.github.io/canvas-paint/) · [Repo](https://github.com/Bobo100/canvas-paint) |
+| React Hook 筆記 | 每個 Hook 一頁的互動教學 | [Demo](https://bobo100.github.io/react-hook-notes/) · [Repo](https://github.com/Bobo100/react-hook-notes) |
+
+</details>
+
+## ✍️ 最新文章
+
+<!-- BLOG:START -->
+- [書庫「皮膚」設計：書脊書架(bookshelf spine)與暖色 editorial](https://bobo100.dev/learning/%E6%9B%B8%E5%BA%AB%E7%9A%AE%E8%86%9A-bookshelf-spine-%E8%88%87-warm-editorial)
+- [Async function-Await 函式](https://bobo100.dev/learning/async-function-await-%E5%87%BD%E5%BC%8F)
+- [throw Error用法](https://bobo100.dev/learning/throw-error%E7%94%A8%E6%B3%95)
+- [TypeScript 特性 - Interface](https://bobo100.dev/learning/typescript-%E7%89%B9%E6%80%A7-interface)
+- [TypeScript 資料型別 - 元組(Tuple) & 列舉(Enum)](https://bobo100.dev/learning/typescript-%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5-%E5%85%83%E7%B5%84tuple-%E5%88%97%E8%88%89enum)
+<!-- BLOG:END -->
+
+## 🛠️ 最近更新的 repo
+
+<!-- REPOS:START -->
+- [style-explorer](https://github.com/Bobo100/style-explorer) · [Demo](https://style-explorer-henna.vercel.app) — 色票 + 真實網站預覽二合一工具,給沒學過色彩學的人用。即時換色 + WCAG 對比檢查 + 一鍵匯出 CSS/Tailwind。Next.js 16 + Tailwind 4。 <sub>2026-10-06</sub>
+- [angels-online-afk-bot](https://github.com/Bobo100/angels-online-afk-bot) — 天使之戀自動掛機 <sub>2026-10-06</sub>
+- [youtube-converter](https://github.com/Bobo100/youtube-converter) — 為了不太會用電腦的家人，寫一個簡單的功能，讓他可以抓youtube影片並且轉檔 <sub>2026-10-05</sub>
+- [discord-pokemon-bot](https://github.com/Bobo100/discord-pokemon-bot) — Discord機器人與寶可夢自動抓寶系統 <sub>2026-10-05</sub>
+- [cra-template-bobo-react-ts](https://github.com/Bobo100/cra-template-bobo-react-ts) — 建立自己的react模板 Create your own Create React App template <sub>2026-10-04</sub>
+<!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
 
