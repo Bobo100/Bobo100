@@ -15,8 +15,10 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 📖 簡介
 
 > *凡人持續努力。*
->
-> 最近學到的經驗:確診真的非常非常痛苦!!!
+
+前端工程師，白天寫產品，下班做 side project —— 從配色工具、請客點餐到給家人用的影片下載器，喜歡把「自己真的會用到」的東西做到好用。
+
+也在 [Kurau Blog](https://bobo100.dev) 記錄學過的技術、玩過的遊戲、看過的書和劇，偶爾在 [YouTube](https://www.youtube.com/channel/UC05WC738SwWj5wSiTSDd0Vg) 剪英雄聯盟的日常片段。
 
 <br/>
 
