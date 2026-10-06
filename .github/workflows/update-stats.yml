@@ -10,6 +10,11 @@ on:
       - "scripts/generate_stats.py"
       - ".github/workflows/update-stats.yml"
 
+# 兩個 workflow 都會 commit README,同一群組排隊跑，避免同時 push 被拒
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -37,6 +42,7 @@ jobs:
           if [ -n "$(git status --porcelain assets README.md)" ]; then
             git add assets README.md
             git commit -m "chore(stats): refresh generated SVGs and recent repos"
+            git pull --rebase
             git push
           else
             echo "No changes."
