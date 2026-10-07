@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
+- [youtube-to-your-format-rs](https://github.com/Bobo100/youtube-to-your-format-rs) — 給長輩用的 YouTube 下載 / 轉檔桌面程式(Tauri 2 + Rust) <sub>2026-10-06</sub>
 - [style-explorer](https://github.com/Bobo100/style-explorer) · [Demo](https://style-explorer-henna.vercel.app) — 色票 + 真實網站預覽二合一工具,給沒學過色彩學的人用。即時換色 + WCAG 對比檢查 + 一鍵匯出 CSS/Tailwind。Next.js 16 + Tailwind 4。 <sub>2026-10-06</sub>
 - [angels-online-afk-bot](https://github.com/Bobo100/angels-online-afk-bot) — 天使之戀自動掛機 <sub>2026-10-06</sub>
 - [youtube-converter](https://github.com/Bobo100/youtube-converter) — 為了不太會用電腦的家人，寫一個簡單的功能，讓他可以抓youtube影片並且轉檔 <sub>2026-10-05</sub>
 - [discord-pokemon-bot](https://github.com/Bobo100/discord-pokemon-bot) — Discord機器人與寶可夢自動抓寶系統 <sub>2026-10-05</sub>
-- [cra-template-bobo-react-ts](https://github.com/Bobo100/cra-template-bobo-react-ts) — 建立自己的react模板 Create your own Create React App template <sub>2026-10-04</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
