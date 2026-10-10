@@ -52,11 +52,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## ✍️ 最新文章
 
 <!-- BLOG:START -->
+- [人慈 - 橫跨二十萬年的人性旅程,用更好的視角看待自己 Humankind- A Hopeful History](https://bobo100.dev/book/%E4%BA%BA%E6%85%88-%E6%A9%AB%E8%B7%A8%E4%BA%8C%E5%8D%81%E8%90%AC%E5%B9%B4%E7%9A%84%E4%BA%BA%E6%80%A7%E6%97%85%E7%A8%8B-%E7%94%A8%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%A6%96%E8%A7%92%E7%9C%8B%E5%BE%85%E8%87%AA%E5%B7%B1-humankind-a-hopeful-history)
 - [書庫「皮膚」設計：書脊書架&lpar;bookshelf spine&rpar;與暖色 editorial](https://bobo100.dev/learning/%E6%9B%B8%E5%BA%AB%E7%9A%AE%E8%86%9A-bookshelf-spine-%E8%88%87-warm-editorial)
 - [Async function-Await 函式](https://bobo100.dev/learning/async-function-await-%E5%87%BD%E5%BC%8F)
 - [throw Error用法](https://bobo100.dev/learning/throw-error%E7%94%A8%E6%B3%95)
 - [TypeScript 特性 - Interface](https://bobo100.dev/learning/typescript-%E7%89%B9%E6%80%A7-interface)
-- [TypeScript 資料型別 - 元組&lpar;Tuple&rpar; &amp; 列舉&lpar;Enum&rpar;](https://bobo100.dev/learning/typescript-%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5-%E5%85%83%E7%B5%84tuple-%E5%88%97%E8%88%89enum)
 <!-- BLOG:END -->
 
 ## 🛠️ 最近更新的 repo
