@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [spotify-line-bot](https://github.com/Bobo100/spotify-line-bot) · [Demo](https://spotify-line-bot.vercel.app) — Spotify 控制 + LINE Bot 訊息整合 <sub>2026-10-23</sub>
-- [bird-sound-recognize-app](https://github.com/Bobo100/bird-sound-recognize-app) — Bird Sound Recognize APP - This is an example of a mobile phone using the tflite model for real-time identification <sub>2026-10-23</sub>
-- [BirdSoundRecognize](https://github.com/Bobo100/BirdSoundRecognize) — Bird Sound Recognize <sub>2026-10-23</sub>
-- [spotify-webui-old](https://github.com/Bobo100/spotify-webui-old) — Spotify Web UI 練習(舊版) <sub>2026-10-23</sub>
-- [youtube-converter](https://github.com/Bobo100/youtube-converter) — 為了不太會用電腦的家人，寫一個簡單的功能，讓他可以抓youtube影片並且轉檔 <sub>2026-10-23</sub>
+- [canvas-image-enhance](https://github.com/Bobo100/canvas-image-enhance) · [Demo](https://bobo100.github.io/canvas-image-enhance/) — 圖片增強之網頁功能模擬 <sub>2026-10-24</sub>
+- [human-nextjs-worker](https://github.com/Bobo100/human-nextjs-worker) — human-next.js-worker version 測試human如何使用worker辨識圖片 <sub>2026-10-24</sub>
+- [todos-shopping-cart-homework](https://github.com/Bobo100/todos-shopping-cart-homework) — 兩個功能，一個Todos，一個Shopping Cart <sub>2026-10-24</sub>
+- [react-redux-async-example](https://github.com/Bobo100/react-redux-async-example) — React-Redux 非同步處理範例 <sub>2026-10-24</sub>
+- [react-redux-notes](https://github.com/Bobo100/react-redux-notes) — React-Redux 介紹 <sub>2026-10-24</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
