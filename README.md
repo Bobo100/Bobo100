@@ -72,7 +72,7 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [【本週遊戲週報 #1】影之刃零與五款PC新作 | AI 協作](https://www.youtube.com/watch?v=VX8VapF84j0)
+- [【本週遊戲週報 #1】影之刃零與五款PC新作](https://www.youtube.com/watch?v=VX8VapF84j0)
 - [【百百】嘶嘶~蛇快要可以穿鞋了🤩](https://www.youtube.com/shorts/6VbUxv9WhYY)
 - [【百百】最近迷上在你的鼻孔尿尿 #lolshorts  #lol  #大混戰 #Montagem Miau](https://www.youtube.com/shorts/VKizxgLEfWA)
 - [【百百】各位聖誕節快樂🎅🎄🎁 #lolshorts  #lol  #大混戰](https://www.youtube.com/shorts/BOBi8qI_fJ4)
