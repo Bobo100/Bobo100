@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [canvas-image-enhance](https://github.com/Bobo100/canvas-image-enhance) · [Demo](https://bobo100.github.io/canvas-image-enhance/) — 圖片增強之網頁功能模擬 <sub>2026-10-24</sub>
-- [human-nextjs-worker](https://github.com/Bobo100/human-nextjs-worker) — human-next.js-worker version 測試human如何使用worker辨識圖片 <sub>2026-10-24</sub>
-- [todos-shopping-cart-homework](https://github.com/Bobo100/todos-shopping-cart-homework) — 兩個功能，一個Todos，一個Shopping Cart <sub>2026-10-24</sub>
-- [react-redux-async-example](https://github.com/Bobo100/react-redux-async-example) — React-Redux 非同步處理範例 <sub>2026-10-24</sub>
-- [react-redux-notes](https://github.com/Bobo100/react-redux-notes) — React-Redux 介紹 <sub>2026-10-24</sub>
+- [spotify-line-bot](https://github.com/Bobo100/spotify-line-bot) · [Demo](https://spotify-line-bot.vercel.app) — Spotify 控制 + LINE Bot 訊息整合 <sub>2026-10-25</sub>
+- [welcome-page-homework](https://github.com/Bobo100/welcome-page-homework) · [Demo](https://bobo100.github.io/welcome-page-homework/) — (作業 01) Homework-01-Welcome-Page <sub>2026-10-24</sub>
+- [react-scroll-animation](https://github.com/Bobo100/react-scroll-animation) · [Demo](https://bobo100.github.io/react-scroll-animation/) — 測試各種滑鼠滾輪動畫 <sub>2026-10-24</sub>
+- [react-transitions](https://github.com/Bobo100/react-transitions) · [Demo](https://bobo100.github.io/react-transitions/) — 測試各種轉場效果 Test various transition effects <sub>2026-10-24</sub>
+- [youtube-converter](https://github.com/Bobo100/youtube-converter) — 為了不太會用電腦的家人，寫一個簡單的功能，讓他可以抓youtube影片並且轉檔 <sub>2026-10-24</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
