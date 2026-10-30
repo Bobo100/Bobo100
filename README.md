@@ -72,11 +72,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [上古世紀編年史搶先體驗！這週 6 款新作一次看｜本週遊戲週報 #2](https://www.youtube.com/watch?v=ccgJl3MYkr8)
 - [影之刃零終於要上市！這週還有 5 款 PC 新作別錯過｜本週遊戲週報 #1](https://www.youtube.com/watch?v=VX8VapF84j0)
 - [【百百】嘶嘶~蛇快要可以穿鞋了🤩](https://www.youtube.com/shorts/6VbUxv9WhYY)
 - [【百百】最近迷上在你的鼻孔尿尿 #lolshorts  #lol  #大混戰 #Montagem Miau](https://www.youtube.com/shorts/VKizxgLEfWA)
 - [【百百】各位聖誕節快樂🎅🎄🎁 #lolshorts  #lol  #大混戰](https://www.youtube.com/shorts/BOBi8qI_fJ4)
-- [【百百】連敗列車是誰害的? #lolshorts  #lol  #leagueoflegends](https://www.youtube.com/shorts/y-r_SJ5ORec)
 <!-- YOUTUBE:END -->
 
 <br/>
