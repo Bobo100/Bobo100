@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
+- [youtube-to-your-format-rs](https://github.com/Bobo100/youtube-to-your-format-rs) — 給長輩用的 YouTube 下載 / 轉檔桌面程式(Tauri 2 + Rust) <sub>2026-11-01</sub>
 - [face-api-photo-test](https://github.com/Bobo100/face-api-photo-test) — face-api.js的測試練習 <sub>2026-11-01</sub>
 - [sso-login-homework](https://github.com/Bobo100/sso-login-homework) — SSO login 練習作業 <sub>2026-10-31</sub>
 - [spotify-line-bot](https://github.com/Bobo100/spotify-line-bot) · [Demo](https://spotify-line-bot.vercel.app) — Spotify 控制 + LINE Bot 訊息整合 <sub>2026-10-25</sub>
 - [welcome-page-homework](https://github.com/Bobo100/welcome-page-homework) · [Demo](https://bobo100.github.io/welcome-page-homework/) — (作業 01) Homework-01-Welcome-Page <sub>2026-10-24</sub>
-- [react-scroll-animation](https://github.com/Bobo100/react-scroll-animation) · [Demo](https://bobo100.github.io/react-scroll-animation/) — 測試各種滑鼠滾輪動畫 <sub>2026-10-24</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
