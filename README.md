@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [spotify-line-bot](https://github.com/Bobo100/spotify-line-bot) · [Demo](https://spotify-line-bot.vercel.app) — Spotify 控制 + LINE Bot 訊息整合 <sub>2026-11-13</sub>
-- [youtube-to-your-format-rs](https://github.com/Bobo100/youtube-to-your-format-rs) — 給長輩用的 YouTube 下載 / 轉檔桌面程式(Tauri 2 + Rust) <sub>2026-11-13</sub>
-- [style-explorer](https://github.com/Bobo100/style-explorer) · [Demo](https://style-explorer-henna.vercel.app) — 色票 + 真實網站預覽二合一工具,給沒學過色彩學的人用。即時換色 + WCAG 對比檢查 + 一鍵匯出 CSS/Tailwind。Next.js 16 + Tailwind 4。 <sub>2026-11-13</sub>
-- [react-firebase-crud](https://github.com/Bobo100/react-firebase-crud) — Firebase資料庫使用：下載資料與回傳資料到collection中 <sub>2026-11-12</sub>
-- [webpack-test](https://github.com/Bobo100/webpack-test) — 測試什麼是Webpack <sub>2026-11-04</sub>
+- [react-router-example-02](https://github.com/Bobo100/react-router-example-02) — React Router 範例 02 <sub>2026-11-15</sub>
+- [react-router-example-01](https://github.com/Bobo100/react-router-example-01) — React Router 範例 01 <sub>2026-11-15</sub>
+- [react-function-lifecycle](https://github.com/Bobo100/react-function-lifecycle) · [Demo](https://bobo100.github.io/react-function-lifecycle/) — Function Component 的 生命週期 <sub>2026-11-15</sub>
+- [create-post-homework](https://github.com/Bobo100/create-post-homework) · [Demo](https://bobo100.github.io/create-post-homework/) — (作業03) Homework-03-Create-Post <sub>2026-11-15</sub>
+- [canvas-load-image-homework](https://github.com/Bobo100/canvas-load-image-homework) · [Demo](https://bobo100.github.io/canvas-load-image-homework/) — (作業04) Homework-04-Canvas-Load-Image <sub>2026-11-15</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
