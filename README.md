@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [github-actions-react-test](https://github.com/Bobo100/github-actions-react-test) · [Demo](https://bobo100.github.io/github-actions-react-test/) — 測試自動布署功能 <sub>2026-11-15</sub>
-- [react-transitions](https://github.com/Bobo100/react-transitions) · [Demo](https://bobo100.github.io/react-transitions/) — 測試各種轉場效果 Test various transition effects <sub>2026-11-15</sub>
-- [react-scroll-animation](https://github.com/Bobo100/react-scroll-animation) · [Demo](https://bobo100.github.io/react-scroll-animation/) — 測試各種滑鼠滾輪動畫 <sub>2026-11-15</sub>
-- [welcome-page-homework](https://github.com/Bobo100/welcome-page-homework) · [Demo](https://bobo100.github.io/welcome-page-homework/) — (作業 01) Homework-01-Welcome-Page <sub>2026-11-15</sub>
-- [webpack-typescript-test](https://github.com/Bobo100/webpack-typescript-test) — Webpack TypeScript使用測試 <sub>2026-11-15</sub>
+- [react-firebase-crud](https://github.com/Bobo100/react-firebase-crud) — Firebase資料庫使用：下載資料與回傳資料到collection中 <sub>2026-11-16</sub>
+- [cra-template-bobo-nextjs](https://github.com/Bobo100/cra-template-bobo-nextjs) — 我的Next.js create app 範本 <sub>2026-11-16</sub>
+- [discord-pokemon-bot](https://github.com/Bobo100/discord-pokemon-bot) — Discord機器人與寶可夢自動抓寶系統 <sub>2026-11-16</sub>
+- [face-api-photo-test](https://github.com/Bobo100/face-api-photo-test) — face-api.js的測試練習 <sub>2026-11-16</sub>
+- [youtube-to-your-format-rs](https://github.com/Bobo100/youtube-to-your-format-rs) — 給長輩用的 YouTube 下載 / 轉檔桌面程式(Tauri 2 + Rust) <sub>2026-11-16</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
