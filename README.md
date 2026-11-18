@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [react-firebase-crud](https://github.com/Bobo100/react-firebase-crud) — Firebase資料庫使用：下載資料與回傳資料到collection中 <sub>2026-11-16</sub>
-- [cra-template-bobo-nextjs](https://github.com/Bobo100/cra-template-bobo-nextjs) — 我的Next.js create app 範本 <sub>2026-11-16</sub>
-- [discord-pokemon-bot](https://github.com/Bobo100/discord-pokemon-bot) — Discord機器人與寶可夢自動抓寶系統 <sub>2026-11-16</sub>
-- [face-api-photo-test](https://github.com/Bobo100/face-api-photo-test) — face-api.js的測試練習 <sub>2026-11-16</sub>
-- [youtube-to-your-format-rs](https://github.com/Bobo100/youtube-to-your-format-rs) — 給長輩用的 YouTube 下載 / 轉檔桌面程式(Tauri 2 + Rust) <sub>2026-11-16</sub>
+- [youtube-converter](https://github.com/Bobo100/youtube-converter) — 為了不太會用電腦的家人，寫一個簡單的功能，讓他可以抓youtube影片並且轉檔 <sub>2026-11-18</sub>
+- [canvas-notes](https://github.com/Bobo100/canvas-notes) — 介紹Canvas <sub>2026-11-18</sub>
+- [react-nextjs-intro](https://github.com/Bobo100/react-nextjs-intro) — 介紹 Next.js <sub>2026-11-18</sub>
+- [sso-login-homework](https://github.com/Bobo100/sso-login-homework) — SSO login 練習作業 <sub>2026-11-18</sub>
+- [discord-pokemon-bot](https://github.com/Bobo100/discord-pokemon-bot) — Discord機器人與寶可夢自動抓寶系統 <sub>2026-11-18</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
