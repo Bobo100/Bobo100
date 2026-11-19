@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
+- [webpack-typescript-test](https://github.com/Bobo100/webpack-typescript-test) — Webpack TypeScript使用測試 <sub>2026-11-19</sub>
+- [cra-template-bobo-nextjs](https://github.com/Bobo100/cra-template-bobo-nextjs) — 我的Next.js create app 範本 <sub>2026-11-19</sub>
+- [black-desert-tool](https://github.com/Bobo100/black-desert-tool) · [Demo](https://bobo100.github.io/black-desert-tool/) — 自己方便使用的黑沙工具 <sub>2026-11-19</sub>
 - [youtube-converter](https://github.com/Bobo100/youtube-converter) — 為了不太會用電腦的家人，寫一個簡單的功能，讓他可以抓youtube影片並且轉檔 <sub>2026-11-18</sub>
 - [canvas-notes](https://github.com/Bobo100/canvas-notes) — 介紹Canvas <sub>2026-11-18</sub>
-- [react-nextjs-intro](https://github.com/Bobo100/react-nextjs-intro) — 介紹 Next.js <sub>2026-11-18</sub>
-- [sso-login-homework](https://github.com/Bobo100/sso-login-homework) — SSO login 練習作業 <sub>2026-11-18</sub>
-- [discord-pokemon-bot](https://github.com/Bobo100/discord-pokemon-bot) — Discord機器人與寶可夢自動抓寶系統 <sub>2026-11-18</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
