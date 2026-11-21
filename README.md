@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [firebase-notes](https://github.com/Bobo100/firebase-notes) — Firebase 學習筆記 <sub>2026-11-20</sub>
-- [black-desert-tool](https://github.com/Bobo100/black-desert-tool) · [Demo](https://bobo100.github.io/black-desert-tool/) — 自己方便使用的黑沙工具 <sub>2026-11-20</sub>
-- [spotify-line-bot](https://github.com/Bobo100/spotify-line-bot) · [Demo](https://spotify-line-bot.vercel.app) — Spotify 控制 + LINE Bot 訊息整合 <sub>2026-11-20</sub>
-- [webpack-typescript-test](https://github.com/Bobo100/webpack-typescript-test) — Webpack TypeScript使用測試 <sub>2026-11-19</sub>
-- [cra-template-bobo-nextjs](https://github.com/Bobo100/cra-template-bobo-nextjs) — 我的Next.js create app 範本 <sub>2026-11-19</sub>
+- [face-api-photo-test](https://github.com/Bobo100/face-api-photo-test) — face-api.js的測試練習 <sub>2026-11-21</sub>
+- [typescript-notes](https://github.com/Bobo100/typescript-notes) — TypeScript 學習筆記與範例 <sub>2026-11-21</sub>
+- [canvas-image-enhance-nextjs](https://github.com/Bobo100/canvas-image-enhance-nextjs) — 圖片增強網頁(Next.js 版本) <sub>2026-11-21</sub>
+- [react-canvas-layer](https://github.com/Bobo100/react-canvas-layer) — 練習用Canvas寫出有圖層概念編輯工具 <sub>2026-11-21</sub>
+- [nextjs-homework-01-to-05](https://github.com/Bobo100/nextjs-homework-01-to-05) — 將Homework 01~05 轉移到Next.js上 <sub>2026-11-21</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
