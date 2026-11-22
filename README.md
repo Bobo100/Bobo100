@@ -62,11 +62,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 🛠️ 最近更新的 repo
 
 <!-- REPOS:START -->
-- [face-api-photo-test](https://github.com/Bobo100/face-api-photo-test) — face-api.js的測試練習 <sub>2026-11-21</sub>
-- [typescript-notes](https://github.com/Bobo100/typescript-notes) — TypeScript 學習筆記與範例 <sub>2026-11-21</sub>
-- [canvas-image-enhance-nextjs](https://github.com/Bobo100/canvas-image-enhance-nextjs) — 圖片增強網頁(Next.js 版本) <sub>2026-11-21</sub>
-- [react-canvas-layer](https://github.com/Bobo100/react-canvas-layer) — 練習用Canvas寫出有圖層概念編輯工具 <sub>2026-11-21</sub>
-- [nextjs-homework-01-to-05](https://github.com/Bobo100/nextjs-homework-01-to-05) — 將Homework 01~05 轉移到Next.js上 <sub>2026-11-21</sub>
+- [youtube-to-your-format-rs](https://github.com/Bobo100/youtube-to-your-format-rs) — 給長輩用的 YouTube 下載 / 轉檔桌面程式(Tauri 2 + Rust) <sub>2026-11-21</sub>
+- [react-redux-new-syntax-example](https://github.com/Bobo100/react-redux-new-syntax-example) — React-Redux 新版寫法範例 <sub>2026-11-21</sub>
+- [react-redux-optimize-example](https://github.com/Bobo100/react-redux-optimize-example) — React-Redux 效能優化範例 <sub>2026-11-21</sub>
+- [scss-sass-notes](https://github.com/Bobo100/scss-sass-notes) — 介紹 SCSS <sub>2026-11-21</sub>
+- [react-router-notes](https://github.com/Bobo100/react-router-notes) — React中的Router介紹 <sub>2026-11-21</sub>
 <!-- REPOS:END -->
 
 ## 📺 Latest YouTube Videos
