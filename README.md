@@ -72,11 +72,11 @@ hobbies: ["coding", "gaming", "youtube"]
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [戰鎚：破曉之戰 4 主打回到初代！這週還有 4 款 PC 新作別錯過｜本週遊戲週報 #6](https://www.youtube.com/watch?v=Y92a1FCzzqk)
 - [一起搬家吧要你跟朋友合力搬家具！這週還有 4 款 PC 新作別錯過｜本週遊戲週報 #5](https://www.youtube.com/watch?v=IR_W17yJQAw)
 - [GTA 6終於要上市!這週還有4款PC新作別錯過｜本週遊戲週報 #4](https://www.youtube.com/watch?v=0JBJ9vBOKOk)
 - [Warhammer Survivors 要上市了！這週還有 4 款 PC 新作別錯過｜本週遊戲週報 #3](https://www.youtube.com/watch?v=A8v7Yf08p4U)
 - [上古世紀編年史搶先體驗！這週 6 款新作一次看｜本週遊戲週報 #2](https://www.youtube.com/watch?v=ccgJl3MYkr8)
-- [影之刃零終於要上市！這週還有 5 款 PC 新作別錯過｜本週遊戲週報 #1](https://www.youtube.com/watch?v=VX8VapF84j0)
 <!-- YOUTUBE:END -->
 
 <br/>
